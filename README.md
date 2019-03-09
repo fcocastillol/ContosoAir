@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/castillolimon/Proyect1/_apis/build/status/fcocastillol.ContosoAir?branchName=master)](https://dev.azure.com/castillolimon/Proyect1/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
